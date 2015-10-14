@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Starts on Imint</title>
+    <link>http://imint.se/start/</link>
+    <description>Recent content in Starts on Imint</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sv-se</language>
+    <lastBuildDate>Wed, 14 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://imint.se/start/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>http://imint.se/start/</link>
+      <pubDate>Wed, 14 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://imint.se/start/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;TODO: Videor - Eric/Jonathan fixar&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Imint AB erbjuder mjukvarulösningar för videoförbättring och videoanalys i realtid. Vår vision är att inta en världsledande position för att analysera, optimera och förbättra video i realtid, till exempel i liveströmmar, för att skapa mervärde åt konsumentmarknaden.&lt;/p&gt;
+
+&lt;p&gt;Bolagets teknologi har tidigare sålts till flera ledande internationella bolag inom spaning med obemannade flygfarkoster (UAV). Imints teknik har även integrerats och sålts till krävande industriella applikationer på så skilda marknader som militära undervattensfarkoster och flygtrafikledning. Vem kunde ana att en teknik utvecklad för en militär operatör på marken, som behövde få bättre video från en drönare i luften, skulle vara just det som en hårt konkurrensutsatt smartphonemarknad letade efter?&lt;/p&gt;
+
+&lt;p&gt;Vår teknologi Vidhance® kommer låta video göra samma raska och revolutionerande steg framåt likt de som skett inom stillbildsfotografi de senaste åren. Läs mer om våra &lt;a href=&#34;http://imint.se/losningar&#34;&gt;lösningar&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;TODO: Nyheter? - Jonathan fixar&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Vi på Imint drivs av en vilja att fundamentalt förändra hur vi i vardagen kan använda video för att fånga och dela våra upplevelser med andra. Video har potentialen att beröra oss som inget annat media - vi som tittare får en chans att vara ”där”.&lt;/p&gt;
+
+&lt;p&gt;Varmt välkommen att lära dig mer om Imint!&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://techcrunch.com/2015/06/22/imints-vidhance-algorithms-could-soon-replace-live-video-producers/&#34;&gt;Imint&amp;rsquo;s Vidhance algorithm could soon replace live video producers&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;cite&gt;Frederic Lardinois, TechCrunch, Juni 2015&lt;/cite&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

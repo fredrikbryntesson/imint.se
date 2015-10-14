@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Invests on Imint</title>
+    <link>http://imint.se/invest/</link>
+    <description>Recent content in Invests on Imint</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sv-se</language>
+    <lastBuildDate>Wed, 14 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://imint.se/invest/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Investerarinformation</title>
+      <link>http://imint.se/invest/</link>
+      <pubDate>Wed, 14 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://imint.se/invest/</guid>
+      <description>
+
+&lt;h1 id=&#34;rubrik:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Rubrik&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pågående Nyemission</title>
+      <link>http://imint.se/invest/emission/</link>
+      <pubDate>Wed, 14 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://imint.se/invest/emission/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rapporter</title>
+      <link>http://imint.se/invest/rapporter/</link>
+      <pubDate>Wed, 14 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://imint.se/invest/rapporter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ägare</title>
+      <link>http://imint.se/invest/agare/</link>
+      <pubDate>Wed, 14 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://imint.se/invest/agare/</guid>
+      <description>
+
+&lt;h1 id=&#34;päab:22026c34790203ac0a78e202baeea608&#34;&gt;PÄAB&lt;/h1&gt;
+
+&lt;h1 id=&#34;almi-invest:22026c34790203ac0a78e202baeea608&#34;&gt;Almi Invest&lt;/h1&gt;
+
+&lt;h1 id=&#34;uppsala-universitet-holding-ab:22026c34790203ac0a78e202baeea608&#34;&gt;Uppsala Universitet Holding AB&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
